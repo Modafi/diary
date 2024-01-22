@@ -27,11 +27,12 @@ Spring MVC를 활용하여 CRUD를 연습하기 위한 일정 관리 프로젝�
 
 ## ERD
 
-![Screenshot 2024-01-19 at 4 53 14 PM](https://github.com/Dittttto/springboot-diary/assets/82052272/d51c420f-8f7f-4b26-a9d4-7254daa9b9f4)
+![Screenshot 2024-01-22 at 8 36 43 PM](https://github.com/Modafi/diary/assets/155048724/d6185908-7e1a-47c2-8fd4-b78098065028)
 
 ## Usecase Diagram
 
-![Screenshot 2024-01-19 at 4 52 51 PM](https://github.com/Dittttto/springboot-diary/assets/82052272/73ca57b0-3321-4cf9-9368-fe801a348a10)
+![Screenshot 2024-01-22 at 8 36 51 PM](https://github.com/Modafi/diary/assets/155048724/7096db88-f7c7-499a-a438-b5c0607b2dfe)
+
 
 
 ## [API 명세서](/document/api.pdf)
